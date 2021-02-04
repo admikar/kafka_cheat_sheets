@@ -1,4 +1,7 @@
-A Practical Introduction to Kafka Storage Internals
+https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f
+
+### A Practical Introduction to Kafka Storage Internals
+
 Kafka is everywhere these days. With the advent of Microservices and distributed computing, Kafka has become a regular occurrence in architecture’s of every product. In this article, I’ll try to explain how Kafka’s internal storage mechanism works.
 Since this is going to be a deep dive into Kafka’s internals, I would expect you to have some understanding about Kafka. Although I’ve tried to keep the entry level for this article pretty low, you might not be able to understand everything if you’re not familiar with the general workings of it. Proceed further with that in mind.
 Kafka
