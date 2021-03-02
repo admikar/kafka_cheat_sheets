@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=nQd209e9eCY&list=PLFGXpqiCz10n2VvLZwyvTdQyQegmWTBb_&index=1
+stratch cluster
+
+kafka на данный момент в 50% случаях используется как очередь
+
+партиции для паралелизма
+
+send - store - ack
+
+send - store - fetch - ack
+
+kafka - os buffer cache - drive controller buffer - drive buffer
+
+high water mark
+
+multi dc - latency ~30ms, check by iperf
+
+important: lan
+
